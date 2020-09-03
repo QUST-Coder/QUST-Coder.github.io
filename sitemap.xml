@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://qustkx.com/2020/08/29/hello-world/</loc>
-    
-    <lastmod>2020-08-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://qustkx.com/2020/08/16/kxstar/</loc>
     
     <lastmod>2020-08-16</lastmod>
@@ -86,14 +79,14 @@
   </url>
   
   <url>
-    <loc>http://qustkx.com/2019/08/17/blog1/</loc>
+    <loc>http://qustkx.com/2019/08/17/blog2/</loc>
     
     <lastmod>2019-08-27</lastmod>
     
   </url>
   
   <url>
-    <loc>http://qustkx.com/2019/08/17/blog2/</loc>
+    <loc>http://qustkx.com/2019/08/17/blog1/</loc>
     
     <lastmod>2019-08-27</lastmod>
     
@@ -114,7 +107,7 @@
   </url>
   
   <url>
-    <loc>http://qustkx.com/2019/08/17/blog8/</loc>
+    <loc>http://qustkx.com/2019/08/17/blog6/</loc>
     
     <lastmod>2019-08-27</lastmod>
     
@@ -128,14 +121,14 @@
   </url>
   
   <url>
-    <loc>http://qustkx.com/2019/08/17/blog7/</loc>
+    <loc>http://qustkx.com/2019/08/17/blog8/</loc>
     
     <lastmod>2019-08-27</lastmod>
     
   </url>
   
   <url>
-    <loc>http://qustkx.com/2019/08/17/blog6/</loc>
+    <loc>http://qustkx.com/2019/08/17/blog7/</loc>
     
     <lastmod>2019-08-27</lastmod>
     
@@ -207,50 +200,50 @@
 
   <url>
     <loc>http://qustkx.com/</loc>
-    <lastmod>2020-08-29</lastmod>
+    <lastmod>2020-09-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://qustkx.com/tags/Hexo/</loc>
-    <lastmod>2020-08-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://qustkx.com/tags/public/</loc>
-    <lastmod>2020-08-29</lastmod>
+    <lastmod>2020-09-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://qustkx.com/tags/%E5%8D%8F%E4%BC%9A%E7%AE%80%E4%BB%8B/</loc>
-    <lastmod>2020-08-29</lastmod>
+    <loc>http://qustkx.com/tags/Hexo/</loc>
+    <lastmod>2020-09-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://qustkx.com/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC-%E5%8D%8F%E4%BC%9A%E7%AE%80%E4%BB%8B/</loc>
-    <lastmod>2020-08-29</lastmod>
+    <lastmod>2020-09-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://qustkx.com/tags/%E5%8D%8F%E4%BC%9A%E7%AE%80%E4%BB%8B/</loc>
+    <lastmod>2020-09-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://qustkx.com/tags/%E7%9B%B4%E6%92%AD/</loc>
-    <lastmod>2020-08-29</lastmod>
+    <lastmod>2020-09-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://qustkx.com/tags/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2020-08-29</lastmod>
+    <lastmod>2020-09-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -259,7 +252,7 @@
   
   <url>
     <loc>http://qustkx.com/categories/Hexo%E6%8A%98%E8%85%BE/</loc>
-    <lastmod>2020-08-29</lastmod>
+    <lastmod>2020-09-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
